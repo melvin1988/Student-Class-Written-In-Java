@@ -428,9 +428,9 @@ public class Main {
     
     private static void studentInfo() {
         System.out.println("Name: Melvin Sim");
-        System.out.println("Student number: 32878244");
+        System.out.println("Student number: Student number");
         System.out.println("Mode of enrolment: Part-time");
-        System.out.println("Tutor: Kevin Ng");
+        System.out.println("Tutor: Tutor's name");
         System.out.println("===================================================================");
         System.out.println("");
     }
