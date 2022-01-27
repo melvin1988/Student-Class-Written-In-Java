@@ -1,4 +1,4 @@
-# Student-class
+# Student-Class-Written-In-Java
 First, you need to design, code in Java, test and document a base class, Student. The Student class will
 have the following information:
 
